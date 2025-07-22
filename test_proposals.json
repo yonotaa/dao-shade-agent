@@ -1,0 +1,16 @@
+[
+  {
+    "id": 4,
+    "title": "Update documentation",
+    "description": "Update the DAO documentation to include new governance processes and onboarding guides for new members.",
+    "budget": 400,
+    "proposer": "carol.near"
+  },
+  {
+    "id": 5,
+    "title": "Research partnership",
+    "description": "Conduct research on potential partnerships with other DAOs and present a detailed report to the community.",
+    "budget": "not_a_number",
+    "proposer": "alice.near"
+  }
+]
